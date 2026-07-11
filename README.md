@@ -1,12 +1,8 @@
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&waveHeight=80&bannerText=Alireza Hashamdar" />
+## Hello, I'm Alireza! 👋
 
+I’m a **Backend Developer** passionate about building scalable APIs and robust system architectures. With a solid foundation in Node.js and a curiosity for how things work under the hood—from hardware maintenance to backend infrastructure—I’m constantly evolving my craft
 
-## Hi, I'm Alireza 👋
-
-I'm a backend-focused developer experienced in building scalable and reliable systems.  
-My work primarily revolves around **Node.js**, with a strong emphasis on API design, real-time applications, and backend architecture.
-
-### Tech Stack
+### 🛠 Tech Stack
 <table>
   <tr>
     <td align="center" width="96">
@@ -41,7 +37,7 @@ My work primarily revolves around **Node.js**, with a strong emphasis on API des
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" />
-      <br>Redis (learning)
+      <br>Redis
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" />
@@ -57,31 +53,22 @@ My work primarily revolves around **Node.js**, with a strong emphasis on API des
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
       <br>Linux
     </td>
-
   </tr>
 </table>
 
+###  What I'm Focused On
+*   **Backend Engineering:** Designing efficient REST APIs and clean service architectures.
+*   **Infrastructure:** Working with Docker, Linux, and Redis for performance and scalability.
+*   **Continuous Growth:** Sharpening my algorithmic problem-solving with **LeetCode** and transitioning into **TypeScript** and **System Design**.
 
-### What I do
-- Design and develop backend services with Node.js  
-- Build and maintain RESTful and real-time APIs  
-- Work with Docker and Linux-based environments  
-- Use Redis for caching and performance optimization  
+###  Featured Projects
+*   **UniSpace** — A comprehensive task management platform.
+    *   *Key Features:* Dynamic form builder, note-taking module, and a conversational AI assistant.
+    *   *Tech:* Node.js, Express, MySQL.
+    *   *Highlight:* Implemented subscription-based plan enforcement and usage limits. *(Private repo - open for discussion!)*
+*   **[Task-Tracker](https://github.com/HyZemm/Task-Tracker)** — Implementation of the roadmap.sh project.
+*   **[Number Guessing Game](https://github.com/HyZemm/Number-Guessing)** — A CLI-based game focusing on input validation, state management, and Node.js control flow.
 
 
-### Projects
-- **Task Tracker (CLI Application)**  
-  A Node.js-based command-line application for managing tasks.  
-  Designed with structured command handling, persistent data storage, and clean application flow.  
-  👉 https://github.com/HyZemm/Task-Tracker
-
-- **Number Guessing Game (CLI Application)**  
-  A Node.js CLI game focused on user interaction, input validation, and application logic.  
-  Demonstrates control flow, state handling, and clean command-line UX.  
-  👉 https://github.com/HyZemm/Number-Guessing
-
-I handle backend development end-to-end — from system design and implementation to deployment.
-
-![](https://github-readme-stats.vercel.app/api?username=HyZemm&theme=whatsapp-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HyZemm&theme=whatsapp-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HyZemm&theme=whatsapp-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###  Let's Connect
+*   **X:** [@hyzemm](https://x.com/hyzemm)
